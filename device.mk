@@ -175,6 +175,7 @@ PRODUCT_PACKAGES += \
     CarrierConfigOverlayRM6785 \
     FrameworksOverlayRMX2151 \
     FrameworksOverlayRMX2161 \
+    FrameworksResOverlayRM6785 \
     SettingsOverlayRM6785 \
     SettingsProviderOverlay6 \
     SettingsProviderOverlay6i \
