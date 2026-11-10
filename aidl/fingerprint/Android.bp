@@ -6,10 +6,10 @@
 //
 
 cc_binary {
-    name: "android.hardware.biometrics.fingerprint-service.nemo",
+    name: "android.hardware.biometrics.fingerprint-service.RM6785",
     relative_install_path: "hw",
-    init_rc: ["android.hardware.biometrics.fingerprint-service.nemo.rc"],
-    vintf_fragments: ["android.hardware.biometrics.fingerprint-service.nemo.xml"],
+    init_rc: ["android.hardware.biometrics.fingerprint-service.RM6785.rc"],
+    vintf_fragments: ["android.hardware.biometrics.fingerprint-service.RM6785.xml"],
     srcs: [
         "CancellationSignal.cpp",
         "Fingerprint.cpp",

@@ -1,2 +1,0 @@
-on init
-    exec - root root -- /vendor/bin/init_nemo_vendor

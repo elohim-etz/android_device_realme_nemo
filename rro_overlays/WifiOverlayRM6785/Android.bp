@@ -1,4 +1,4 @@
 runtime_resource_overlay {
-    name: "SettingsOverlayNemo",
+    name: "WifiOverlayRM6785",
     vendor: true
 }

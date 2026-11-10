@@ -1,5 +1,5 @@
 runtime_resource_overlay {
-    name: "CarrierConfigOverlayNemo",
+    name: "CarrierConfigOverlayRM6785",
     product_specific: true,
     aaptflags: ["--keep-raw-values"],
 }

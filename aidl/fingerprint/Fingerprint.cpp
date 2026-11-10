@@ -87,7 +87,7 @@ class Fingerprint::OplusCallback : public IOplusFingerprintClientCallback {
         return Void();
     }
 
-    // Optical sensor, engineering mode and DCS reports, unused on nemo
+    // Optical sensor, engineering mode and DCS reports, unused on RM6785
     Return<void> onTouchDown(uint64_t /*deviceId*/) override { return Void(); }
     Return<void> onTouchUp(uint64_t /*deviceId*/) override { return Void(); }
     Return<void> onMonitorEventTriggered(uint32_t /*type*/, const hidl_string& /*data*/) override {
